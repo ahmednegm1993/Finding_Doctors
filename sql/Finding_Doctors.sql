@@ -1,0 +1,1 @@
+select first_name,last_name from [dbo].[Finding_Doctors] where last_name='Johnson';
